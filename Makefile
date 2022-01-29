@@ -11,7 +11,7 @@ down:
 
 .PHONY: in
 in:
-	docker exec -it web bash
+	docker exec -it web_flask /bin/sh
 
 .PHONY: dev
 dev:

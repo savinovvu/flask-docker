@@ -1,0 +1,6 @@
+venv/
+.idea/
+.tool-versions
+flask-docker.iml
+README.md
+Makefile
